@@ -11,6 +11,7 @@
 		"lorenzopirro.zig-snippets",
 		"vadimcn.vscode-lldb"
 	],
+	"postStartCommand":"sudo cp -f /home/zls.json /etc/zls.json",
 	"remoteUser": "vscode",
 	"runArgs": [
 		"-it",
