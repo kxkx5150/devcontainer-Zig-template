@@ -11,7 +11,19 @@ Debug
 <br><br><br><br>
 
 
+### X11
 
+<br><br>
+
+windows 10, 11 (wsl2 + wslg)  
+ubuntu
+
+<br>
+
+mac  
+Install XQuartz
+
+<br><br><br>
 
 Set a version you prefer.  
 
